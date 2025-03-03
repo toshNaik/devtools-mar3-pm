@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://studious-yodel-q99gx7qxqvx396rr-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://studious-yodel-q99gx7qxqvx396rr-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=97c728c5-095f-404a-b230-e2efdf2fb2d0
+ceTaskUrl=https://studious-yodel-q99gx7qxqvx396rr-9000.app.github.dev/api/ce/task?id=97c728c5-095f-404a-b230-e2efdf2fb2d0
